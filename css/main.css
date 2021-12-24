@@ -165,6 +165,9 @@ legend {
   font-size: 20px;
   line-height: 1.2;
 }
+.header__description p {
+  margin-bottom: 15px;
+}
 
 .header__form {
   display: -webkit-box;
